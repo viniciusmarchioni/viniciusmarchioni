@@ -12,9 +12,6 @@
 </p>
 
 <div align="center">
-
-![Vinicius`s GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmarchioni&show_icons=true&theme=dracula)
-    
 </div>
 <p align="center">
     <a href="https://github.com/viniciusmarchioni"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmarchioni&theme=dracula&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
